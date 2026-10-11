@@ -10,7 +10,7 @@ A high-fidelity, production-ready Call Centre and retail tele-consultation platf
 
 ## 🚀 Live Demo & Deployment
 
-* **Production URL:** [https://callcenter-ka5fz1q78-lakshmeesha-gowdas-projects.vercel.app/](https://callcenter-ka5fz1q78-lakshmeesha-gowdas-projects.vercel.app/)
+* **Production URL:** https://callcenter-app-ebon.vercel.app/
 * **Repository:** [https://github.com/Lakshmeeshagowda/callcenter_App](https://github.com/Lakshmeeshagowda/callcenter_App)
 
 ---
