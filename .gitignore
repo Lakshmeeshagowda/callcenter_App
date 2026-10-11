@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Raw assignment and reference documents
+*.pdf
+*Mock.html
+*.txt
