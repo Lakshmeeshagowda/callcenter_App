@@ -1,6 +1,17 @@
 # On-Ground.ai Enterprise Call Centre Web Application
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://callcenter-ka5fz1q78-lakshmeesha-gowdas-projects.vercel.app/)
+[![React](https://img.shields.io/badge/React-18.x-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-5.x-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+
 A high-fidelity, production-ready Call Centre and retail tele-consultation platform built with React and Vite. Designed specifically for offline retail store hubs and assisted sales operations (implemented for The Sleep Company RT Nagar Hub).
+
+---
+
+## 🚀 Live Demo & Deployment
+
+* **Production URL:** [https://callcenter-ka5fz1q78-lakshmeesha-gowdas-projects.vercel.app/](https://callcenter-ka5fz1q78-lakshmeesha-gowdas-projects.vercel.app/)
+* **Repository:** [https://github.com/Lakshmeeshagowda/callcenter_App](https://github.com/Lakshmeeshagowda/callcenter_App)
 
 ---
 
@@ -128,6 +139,10 @@ Preview the production build locally:
 ```bash
 npm run preview
 ```
+
+### Live Cloud Deployment
+The project is configured for seamless deployment on Vercel (`vercel.json` included):
+* **Live Deployment:** [https://callcenter-ka5fz1q78-lakshmeesha-gowdas-projects.vercel.app/](https://callcenter-ka5fz1q78-lakshmeesha-gowdas-projects.vercel.app/)
 
 ---
 
